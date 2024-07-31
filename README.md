@@ -1,1 +1,9 @@
-User Story *Cadastro de curso*
+**User Story - Cadastro de curso**
+
+**Descrição**
+Como um administrador do sistema
+Eu quero realizar o cadastro de cursos na plataforma Beedoo 
+com o objetivo oferecer cursos presenciais e online de maneira simples e dinâmica na 
+
+**Critério de aceitação**
+DADO 
