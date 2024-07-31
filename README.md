@@ -19,7 +19,7 @@ Então deverá apresentar o formulário para inclusão de um novo curso
 
 Dado que tenha material de ensino preparado (videoaulas, textos explicativos, atividades, testes e chatbots)
 
-E que tenha um cronograma de ensino (inicio/fim do curso)
+E que tenha um cronograma de ensino (início/fim do curso)
 
 E desejo realizar um cadastro de um novo curso (online ou presencial) para ser ofertado no  portfólio Beedoo
 
