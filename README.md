@@ -1,7 +1,8 @@
+**ETAPA 1**
+
 Segue abaixo a história de usuário criada para atender o desafio da oportunidade - Analista de Qualidade de Software Júnio na Beedoo.
 E para escrita foi levado em consideração a necessidade de **ofertar curso (online e presencias)** para *comercialização* na *Beedoo*, permitindo assim uma maior 
 *propagação* e *difusão*.
-
 
 
 
@@ -35,3 +36,16 @@ Quando preencher as informações do curso e clicar em cadastrar
 Então deverá apresentar a mensagem em tela “Curso cadastrado com sucesso”
 
 E redirecionar para a listagem de cursos da Beedoo
+
+
+**CENÁRIOS E CASO DE TESTE**
+
+Link  Google Doc:
+
+
+**EVIDÊNCIA DOS TESTES**
+
+Link drive: 
+
+**RELATÓRIO BUGS**
+link 
