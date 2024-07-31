@@ -1,2 +1,1 @@
-# QA_Beedoo
-Desafio Analista de Qualidade de Software 
+User Story *Cadastro de curso*
