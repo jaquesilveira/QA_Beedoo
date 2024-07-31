@@ -41,7 +41,7 @@ E redirecionar para a listagem de cursos da Beedoo
 
 **CENÁRIOS E CASO DE TESTE**
 
-Link  Google Doc:
+Link  Google Doc: https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit?usp=sharing
 
 -------------------------------
 
