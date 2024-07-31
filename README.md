@@ -4,9 +4,9 @@ Segue abaixo a história de usuário criada para atender o desafio da oportunida
 E para escrita foi levado em consideração a necessidade de **ofertar curso (online e presencias)** para *comercialização* na *Beedoo*, permitindo assim uma maior 
 *propagação* e *difusão*.
 
+-------------------------------
 
-
-**User Story - Cadastro de curso**
+**USER STORY - CADASTRO DE CURSO**
 
 **Descrição**
 Como um administrador do sistema
@@ -37,15 +37,19 @@ Então deverá apresentar a mensagem em tela “Curso cadastrado com sucesso”
 
 E redirecionar para a listagem de cursos da Beedoo
 
+-------------------------------
 
 **CENÁRIOS E CASO DE TESTE**
 
 Link  Google Doc:
 
+-------------------------------
 
 **EVIDÊNCIA DOS TESTES**
 
 Link drive: 
+
+-------------------------------
 
 **RELATÓRIO BUGS**
 link 
