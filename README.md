@@ -34,4 +34,4 @@ Quando preencher as informações do curso e clicar em cadastrar
 
 Então deverá apresentar a mensagem em tela “Curso cadastrado com sucesso”
 
-E redirecionar para a listar de cursos da Beedoo
+E redirecionar para a listagem de cursos da Beedoo
