@@ -1,6 +1,7 @@
 Segue abaixo a história de usuário criada para atender o desafio da oportunidade - Analista de Qualidade de Software Júnio na Beedoo.
-E para escrita foi levado em consideração a necessidade de ofertar curso (online e presencias) para comercialização na Beedoo, permitindo assim uma maior 
-propagação e difusão.
+E para escrita foi levado em consideração a necessidade de **ofertar curso (online e presencias)** para *comercialização* na *Beedoo*, permitindo assim uma maior 
+*propagação* e *difusão*.
+
 
 
 **User Story - Cadastro de curso**
