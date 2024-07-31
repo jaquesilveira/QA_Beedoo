@@ -3,6 +3,7 @@ E para escrita foi levado em consideração a necessidade de **ofertar curso (on
 *propagação* e *difusão*.
 
 
+
 **User Story - Cadastro de curso**
 
 **Descrição**
