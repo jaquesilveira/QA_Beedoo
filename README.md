@@ -44,7 +44,7 @@ E redirecionar para a listagem de cursos da Beedoo
 
 **CENÁRIOS E CASO DE TESTE**
 
-Link  Google Doc: https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit?usp=sharing
+Link  Google Doc: [https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit?usp=sharing](https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit)
 
 **CENÁRIO 1	Mostrar mensagem de sucesso quando curso online for criado**
 DADO que tenho perfil de administrador
