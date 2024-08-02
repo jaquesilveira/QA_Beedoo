@@ -44,104 +44,13 @@ E redirecionar para a listagem de cursos da Beedoo
 
 **CENÁRIOS E CASO DE TESTE**
 
-Link  Google Doc: [[https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit?usp=sharing](https://docs.google.com/document/d/1i9lRyx-nOxB4cYDlgweCo5fYHImTn_ZtYOF_Fl1zS1M/edit)](https://docs.google.com/spreadsheets/d/1aW9No1e86C6ug-kR8TRWuz2x-_ix3-zgCwClyU2r8JA/edit?gid=0#gid=0)
-
-**CENÁRIO 1	Mostrar mensagem de sucesso quando curso online for criado**
-DADO que tenho perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-E clico em cadastrar
-
-E preencho as informações para  cadastro de curso: Nome, Descrição, instrutor, url, data início/fim, número de vagas, tipo de curso - oline 
-
-QUANDO clico em «Cadastrar Curso»
-
-ENTÃO deverá apresentar a mensagem «Curso cadastrado com sucesso»
-
-E redirecionar para a lista de cursos da Beedoo
-
-
-**CENÁRIO 2	Mostrar mensagem de sucesso quando curso presencial for criado**
-
-DADO que tenho perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-E clico em cadastrar
-
-E preencho as informações para  cadastro de curso: Nome, Descrição, instrutor, url, data início/fim, número de vagas, tipo de curso – presencial
-
-QUANDO clico em «Cadastrar Curso»
-
-ENTÃO deverá apresentar a mensagem «Curso cadastrado com sucesso»
-
-E redirecionar para a lista de cursos da Beedoo
-
-
-**CENÁRIO 3	Não permitir criação de curso com perfil diferente de administrador**
-
-DADO que não tenha perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-QUANDO clico em cadastrar
-
-ENTÃO não deverá apresentar o formulário de cadastro de curso 
-
-
-**CENÁRIO 4	Não permitir a inclusão de curso sem preenchimento dos dados de cadastro**
-
-DADO que tenho perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-E clico em cadastrar
-
-E NÃO preencho as informações para  cadastro de curso: Nome, Descrição, instrutor, url, data início/fim, número de vagas, tipo de curso
-
-QUANDO clico em «Cadastrar Curso»
-
-ENTÃO não deverá incluir o curso sem o preenchimento de dados cadastrais
-
-
-**CENÁRIO 5	Não permitir a inclusão de curso com data início/fim com períodos retroativos ao dia, mês e ano vigente**
-DADO que tenho perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-E clico em cadastrar
-
-E preencho as informações para  cadastro de curso: Nome, Descrição, instrutor, url, número de vagas, tipo de curso
-
-E preencho data início/fim do curso com dados retroativos ao dia, mês e ano vigente
-
-QUANDO clico em «Cadastrar Curso»
-
-ENTÃO não deverá incluir o curso som data início/fim com dados retroativos ao dia, mês e ano ou data inválida
-
-
-**CENÁRIO 6	Não permitir a inclusão de curso com data início/fim com períodos retroativos ao dia, mês e ano vigente**
-DADO que tenho perfil de administrador
-
-E que esteja acessando o portfólio de curso da Beeboo
-
-E clico em cadastrar
-
-E preencho as informações para  cadastro de curso: Nome, Descrição, instrutor, url, número de vagas, tipo de curso
-
-E preencho data início/fim do curso com dados retroativos ao dia, mês e ano vigente
-
-QUANDO clico em «Cadastrar Curso»
-
-ENTÃO não deverá incluir o curso som data início/fim com dados retroativos ao dia, mês e ano ou data inválida
-
+Link  Google Doc: https://docs.google.com/spreadsheets/d/1aW9No1e86C6ug-kR8TRWuz2x-_ix3-zgCwClyU2r8JA/edit?gid=0#gid=0
 
 -------------------------------
 
 **EVIDÊNCIA DOS TESTES**
 
-Link drive: 
+Link drive:  https://drive.google.com/drive/u/2/folders/1_EUTfhWB9OPAYqD2TQCON6n6PiyxDz5F
 
 -------------------------------
 
