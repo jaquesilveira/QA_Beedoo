@@ -59,7 +59,7 @@ Link drive:  https://drive.google.com/drive/u/2/folders/1_EUTfhWB9OPAYqD2TQCON6n
 link:
 Evidencia de defeito : https://docs.google.com/document/d/1V7V8XJK2GnOoj7NHs2pXNJdRW3XlMNSD/edit?usp=drive_link
 
-Relatório: https://docs.google.com/spreadsheets/d/11KeUP_JrXtQyRqEArvVHhLVH8Y27vYnK/edit?usp=drive_link&ouid=114661449776885840855&rtpof=true&sd=true
+Relatório: https: https://docs.google.com/document/d/1V7V8XJK2GnOoj7NHs2pXNJdRW3XlMNSD/edit
 
 
 
